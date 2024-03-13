@@ -1,3 +1,6 @@
 [submodule "webshop"]
 	path = webshop
 	url = git@github.com:violettomania/webshop.git
+[submodule "jobs"]
+	path = jobs
+	url = git@github.com:violettomania/dev-portfolio.git
