@@ -58,4 +58,4 @@
 	url = git@github.com:violettomania/cocktails.git
 [submodule "portfolio"]
 	path = portfolio
-	url = git@github.com:violettomania/dev-portfolio.git
+	url = git@github.com:violettomania/portfolio.git
