@@ -36,4 +36,4 @@
 	url = git@github.com:violettomania/grocery-bud.git
 [submodule "navbar"]
 	path = navbar
-	url = git@github.com:violettomania/dev-portfolio.git
+	url = git@github.com:violettomania/navbar.git
