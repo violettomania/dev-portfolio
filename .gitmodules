@@ -25,3 +25,6 @@
 [submodule "slider"]
 	path = slider
 	url = git@github.com:violettomania/slider.git
+[submodule "lorem-ipsum"]
+	path = lorem-ipsum
+	url = git@github.com:violettomania/dev-portfolio.git
