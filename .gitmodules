@@ -4,3 +4,6 @@
 [submodule "jobs"]
 	path = jobs
 	url = git@github.com:violettomania/jobs.git
+[submodule "bday-reminder"]
+	path = bday-reminder
+	url = git@github.com:violettomania/dev-portfolio.git
