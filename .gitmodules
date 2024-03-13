@@ -1,0 +1,3 @@
+[submodule "webshop"]
+	path = webshop
+	url = git@github.com:violettomania/dev-portfolio.git
