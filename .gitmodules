@@ -53,3 +53,6 @@
 [submodule "contentful-cms"]
 	path = contentful-cms
 	url = git@github.com:violettomania/contentful-cms.git
+[submodule "cocktails"]
+	path = cocktails
+	url = git@github.com:violettomania/dev-portfolio.git
