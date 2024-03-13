@@ -42,4 +42,4 @@
 	url = git@github.com:violettomania/sidebar-and-modal.git
 [submodule "strapi"]
 	path = strapi
-	url = git@github.com:violettomania/dev-portfolio.git
+	url = git@github.com:violettomania/strapi.git
