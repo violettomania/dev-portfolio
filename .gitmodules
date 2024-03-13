@@ -50,3 +50,6 @@
 [submodule "unsplash-images"]
 	path = unsplash-images
 	url = git@github.com:violettomania/unsplash-images.git
+[submodule "contentful-cms"]
+	path = contentful-cms
+	url = git@github.com:violettomania/dev-portfolio.git
