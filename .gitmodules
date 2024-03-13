@@ -10,3 +10,4 @@
 [submodule "tours"]
 	path = tours
 	url = git@github.com:violettomania/dev-portfolio.git
+	url = " "
