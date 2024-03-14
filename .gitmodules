@@ -55,9 +55,6 @@
 [submodule "cocktails"]
 	path = cocktails
 	url = git@github.com:violettomania/cocktails.git
-[submodule "portfolio"]
-	path = portfolio
-	url = git@github.com:violettomania/portfolio.git
 [submodule "portfolio-demo"]
 	path = portfolio-demo
-	url = git@github.com:violettomania/dev-portfolio.git
+	url = git@github.com:violettomania/portfolio-demo.git
